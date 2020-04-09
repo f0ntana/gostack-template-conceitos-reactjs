@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #f5f5f5;
   font-size: 14px;
 }
 
@@ -18,7 +19,7 @@ div li {
   align-items: center;
 }
 
-div li + li {
+div li+li {
   margin-top: 15px;
 }
 
